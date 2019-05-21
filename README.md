@@ -1,3 +1,9 @@
+# ***WARNING***: This document is obsolete.
+
+## Please refer to the [LIGO-Virgo Public Alerts User Guide, https://emfollow.docs.ligo.org/userguide/](https://emfollow.docs.ligo.org/userguide/).
+
+---
+
 # LIGO-Virgo EM Follow-Up Tutorial
 
 http://nbviewer.ipython.org/github/lpsinger/ligo-virgo-emfollowup-tutorial/blob/master/ligo-virgo-emfollowup-tutorial.ipynb
